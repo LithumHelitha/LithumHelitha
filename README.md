@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LITHUM Helitha</h1>
+<h1 align="center">Hi 👋, I'm Lithum Helitha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lithumhelitha&label=Profile%20views&color=0e75b6&style=flat" alt="lithumhelitha" /> </p>
